@@ -26,6 +26,7 @@ Cybersecurity practitioner focused on SOC Incident Triage, Network Forensics, De
 | **06** | **Advanced Password Auditor & Generator**<br>Cryptographic entropy evaluation and HIBP breach check via k-Anonymity. | `Python` `Streamlit` `Requests` | [🔗 Web App](https://ianyosho-password-auditor.streamlit.app) |
 | **07** | **Web Security Headers & TLS Analyzer**<br>OWASP HTTP response header auditing and SSL/TLS socket telemetry. | `Python` `Streamlit` `Cryptography` | [🔗 Web App](https://ianyosho-headers-analyzer.streamlit.app) |
 | **08** | **Threat Intel & IOC Reputation Engine**<br>Automated OSINT triage correlating AbuseIPDB and VirusTotal telemetry. | `Python` `Streamlit` `Pandas` `APIs` | [🔗 Web App](https://ianyosho-threat-intel.streamlit.app) |
+| **09** | **Security Log Analyzer & SIEM Engine**<br>Parsing and heuristic detection engine for Nginx and Linux auth telemetry. | `Python` `Streamlit` `Pandas` `Plotly` `Regex` | [🔗 Web App](https://ianyosho-log-analyzer.streamlit.app) |
 
 ---
 
